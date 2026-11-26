@@ -11,32 +11,43 @@ const playlist = [
     {
         title: "Vibe de Sexta",
         note: "A trilha sonora oficial dos nossos rolês.",
-        src: "Pitty - Dançando.mp3"
+        cover: "foto1.jpeg",
+        src: "IZA - Meu Talismã.mp3"
     },
     {
         title: "Só Pra Você Ouvir",
         note: "Presta atenção na letra dessa aqui...",
+        cover: "foto1.jpeg",
         src: "Maneva - Seja Para Mim.mp3"
     },
     {
+        title: "Charlie Brown Jr - Céu Azul",
+        cover: "foto1.jpeg",
         src: "Charlie Brown Jr - Céu Azul.mp3"
     },
     {
+        title: "Edu Ribeiro - Me Namora",
+        cover: "foto1.jpeg",
         src: "Edu Ribeiro - Me Namora.mp3"
     },
     {
-        src: "IZA - Meu Talismã.mp3"
-    },
-    {
+        title: "Maneva - Luz Que Me Traz Paz",
+        cover: "foto1.jpeg",
         src: "Maneva - Luz Que Me Traz Paz.mp3"
     },
     {
+        title: "Pitty - Dançando",
+        cover: "foto1.jpeg",
         src: "Pitty - Dançando.mp3"
     },
     {
+        title: "SOJA - True Love",
+        cover: "foto1.jpeg",
         src: "SOJA - True Love.mp3"
     },
     {
+        title: "Vibrações - Olhos Verdes",
+        cover: "foto1.jpeg",
         src: "Vibrações - Olhos Verdes.mp3"
     }
 ];
