@@ -5,7 +5,7 @@ const playlist = [
     {
         title: "Nossa Música #1",
         note: "Coloquei essa porque sempre me lembra a primeira vez que a gente ficou.",
-        cover: "foto1.jpg", // Usa a própria foto de vocês como capa da primeira faixa!
+        cover: "foto1.jpeg", // Usa a própria foto de vocês como capa da primeira faixa!
         src: "Orgânico Verão 1 - Lourena e Sant - Dizeres - Rap Box.mp3"
     },
     {
@@ -17,6 +17,27 @@ const playlist = [
         title: "Só Pra Você Ouvir",
         note: "Presta atenção na letra dessa aqui...",
         src: "Maneva - Seja Para Mim.mp3"
+    },
+    {
+        src: "Charlie Brown Jr - Céu Azul.mp3"
+    },
+    {
+        src: "Edu Ribeiro - Me Namora.mp3"
+    },
+    {
+        src: "IZA - Meu Talismã.mp3"
+    },
+    {
+        src: "Maneva - Luz Que Me Traz Paz.mp3"
+    },
+    {
+        src: "Pitty - Dançando.mp3"
+    },
+    {
+        src: "SOJA - True Love.mp3"
+    },
+    {
+        src: "Vibrações - Olhos Verdes.mp3"
     }
 ];
 
