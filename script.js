@@ -49,7 +49,7 @@ const quizData = [
         options: [
             "Hoje mesmo se deixar 👀",
             "Nesse final de semana",
-            "Você escolhe o dia, eu só vou"
+            "Você escolhe o dia, eu só vou",
             "Vou te sequestrar jaja"
         ]
     }
